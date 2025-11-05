@@ -16,18 +16,18 @@ identificar los productos de mejor rendimiento, evaluar la efectividad por regi�
 * **Desglose Geográfico:** Evaluación del rendimiento por distintas regiones o territorios.
 * **Métricas Clave (KPIs):** Tasa de Conversión, Ingresos Totales y Valor Promedio de Transacción.
 
-**Herramientas Utilizadas:**
-* **Visualización:** Looker Studio
-* **Fuente de Datos:** Google Sheets (Hoja de cálculo estructurada)
-
-[**Ver Dashboard Interactivo en Vivo**](https://lookerstudio.google.com/reporting/2257e463-8eca-43de-b713-e8d58ea1beb6)
-
 **Preguntas de Negocio que Responde:**
 
 * **Rentabilidad y Estrategia de Precio:** ¿Cuáles son las categorías y subcategorías que generan la **mayor pérdida neta** y requieren una revisión de precio o descuento?
 * **Gestión de Calidad y Servicio:** ¿Cuál es la **Tasa de Devoluciones** por región y, basándose en la razón de la devolución, cuál es el principal problema (daños, producto incorrecto, etc.)?
 * **Concentración Geográfica:** ¿Qué regiones o estados son los **más rentables** (generando el 80% de las ganancias) y dónde se debe enfocar la inversión?
 * **Impacto de la Campaña:** ¿Cómo ha impactado el **Gasto en Marketing (ROAS)** en las ventas de cada categoría de producto (Mobiliario, Tecnología, Oficina)?
+
+**Herramientas Utilizadas:**
+* **Visualización:** Looker Studio
+* **Fuente de Datos:** Google Sheets (Hoja de cálculo estructurada)
+
+[**Ver Dashboard Interactivo en Vivo**](https://lookerstudio.google.com/reporting/2257e463-8eca-43de-b713-e8d58ea1beb6)
 
 ### 📂 Dataset del Proyecto (Archivos CSV)
 
