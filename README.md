@@ -22,7 +22,7 @@ identificar los productos de mejor rendimiento, evaluar la efectividad por regi�
 
 [**Ver Dashboard Interactivo en Vivo**](https://lookerstudio.google.com/reporting/2257e463-8eca-43de-b713-e8d58ea1beb6)
 
-**Funcionalidades Clave / Preguntas de Negocio que Responde:**
+**Preguntas de Negocio que Responde:**
 
 * **Rentabilidad y Estrategia de Precio:** ¿Cuáles son las categorías y subcategorías que generan la **mayor pérdida neta** y requieren una revisión de precio o descuento?
 * **Gestión de Calidad y Servicio:** ¿Cuál es la **Tasa de Devoluciones** por región y, basándose en la razón de la devolución, cuál es el principal problema (daños, producto incorrecto, etc.)?
