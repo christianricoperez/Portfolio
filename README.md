@@ -23,4 +23,11 @@ identificar los productos de mejor rendimiento, evaluar la efectividad por regi�
 [**Ver Dashboard Interactivo en Vivo**](https://lookerstudio.google.com/reporting/2257e463-8eca-43de-b713-e8d58ea1beb6)
 
 ---
+### 📂 Dataset del Proyecto (Archivos CSV)
 
+Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos utilizada en el modelado del informe:
+
+* **Ventas/Órdenes:** [Sample - Superstore - Orders.csv](/Data/Sample - Superstore - Orders - Sample - Superstore - Orders.csv)
+* **Marketing:** [Sample - Superstore - Marketing.csv](/Data/Sample - Superstore - Marketing - Sample - Superstore - Marketing.csv)
+* **Devoluciones:** [Sample - Superstore - Returns.csv](/Data/Sample - Superstore - Returns - Sample - Superstore - Returns.csv)
+* **Clientes:** [Sample - Superstore - Customers.csv](/Data/Sample - Superstore - Customers - Sample - Superstore - Customers.csv)
