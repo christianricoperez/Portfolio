@@ -33,3 +33,14 @@ Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos u
 * **Clientes:** [Sample - Superstore - Customers.csv](/Data/Sample - Superstore - Customers - Sample - Superstore - Customers.csv)
 
 
+
+
+
+
+
+
+
+* Ventas/Órdenes: [Sample - Superstore - Orders.csv](/Data/Sample%20-%20Superstore%20-%20Orders%20-%20Sample%20-%20Superstore%20-%20Orders.csv)
+* Marketing: [Sample - Superstore - Marketing.csv](/Data/Sample%20-%20Superstore%20-%20Marketing%20-%20Sample%20-%20Superstore%20-%20Marketing.csv)
+* Devoluciones: [Sample - Superstore - Returns.csv](/Data/Sample%20-%20Superstore%20-%20Returns%20-%20Sample%20-%20Superstore%20-%20Returns.csv)
+* Clientes: [Sample - Superstore - Customers.csv](/Data/Sample%20-%20Superstore%20-%20Customers%20-%20Sample%20-%20Superstore%20-%20Customers.csv)
