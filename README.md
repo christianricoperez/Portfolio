@@ -25,7 +25,7 @@ identificar los productos de mejor rendimiento, evaluar la efectividad por regi�
 ---
 ### 📂 Dataset del Proyecto (Superstore)
 
-La siguiente es la colección de archivos CSV utilizados para modelar y crear el informe de Looker Studio. El modelo de datos se basa en la unión de estas cuatro tablas clave.
+La siguiente es la colección de archivos CSV utilizada para el modelado de datos en Looker Studio. Puedes hacer clic en cada archivo para ver los datos sin procesar.
 
 * **Ventas/Órdenes:** [Sample - Superstore - Orders.csv](/Data/Sample - Superstore - Orders - Sample - Superstore - Orders.csv)
 * **Marketing:** [Sample - Superstore - Marketing.csv](/Data/Sample - Superstore - Marketing - Sample - Superstore - Marketing.csv)
