@@ -22,7 +22,6 @@ identificar los productos de mejor rendimiento, evaluar la efectividad por regiÃ
 
 [**Ver Dashboard Interactivo en Vivo**](https://lookerstudio.google.com/reporting/2257e463-8eca-43de-b713-e8d58ea1beb6)
 
----
 ### ðŸ“‚ Dataset del Proyecto (Archivos CSV)
 
 Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos utilizada en el modelado del informe:
