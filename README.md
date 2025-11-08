@@ -44,16 +44,15 @@ Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos u
 
 
 ---
-## 🏠 Proyecto 2: Predicción de Precios de Viviendas (Advanced EDA & Feature Engineering)
+## 🏠 Proyecto 2: Análisis Exploratorio de Precios de Viviendas (EDA)
 
-Este proyecto demuestra un flujo de trabajo completo de **Data Science**, enfocado en la limpieza, exploración y preparación de datos para la construcción de un modelo de Machine Learning (Regresión).
+Este proyecto demuestra un flujo de trabajo de **Data Science** dedicado a la **limpieza, exploración y preparación rigurosa de datos complejos**, esencial para cualquier análisis estadístico o modelado posterior.
 
-* **Análisis Completo en Notebook:** [EDA - House Prices Prediction](<PEGA AQUÍ EL LINK COMPLETO A TU ARCHIVO EDA_HousePrices.ipynb>)
+* **Análisis Completo en Notebook:** [EDA - House Prices Dataset](<PEGA AQUÍ EL LINK COMPLETO A TU ARCHIVO EDA_HousePrices.ipynb>)
 
 **Habilidades Demostradas:**
 
-* **Manejo de Valores Nulos:** Estrategias de imputación avanzadas basadas en la relevancia y distribución de la variable.
-* **Detección de Outliers:** Identificación y tratamiento de valores atípicos para mejorar el rendimiento del modelo.
-* **Feature Engineering:** Creación de nuevas variables (ej: antigüedad de la casa) a partir de las existentes.
-* **Transformación de Variables:** Aplicación de logaritmos y/o Box-Cox para normalizar la variable objetivo (`SalePrice`).
-* **Correlación y Visualización:** Análisis bivariado con `Matplotlib` y `Seaborn` para entender la relación entre las características y el precio de venta.
+* **Manejo de Valores Nulos:** Imputación de valores.
+* **Feature Engineering:** Creación de nuevas variables.
+* **Transformación de Variables:** Aplicación de logaritmos para **normalizar** la variable objetivo (`SalePrice`).
+* **Análisis Exploratorio:** Identificación de *outliers* y visualización de correlaciones clave con **Python (Pandas, Seaborn)**.
