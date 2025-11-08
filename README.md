@@ -48,7 +48,7 @@ Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos u
 
 Este proyecto demuestra un flujo de trabajo de **Data Science** dedicado a la **limpieza, exploración y preparación rigurosa de datos complejos**, esencial para cualquier análisis estadístico o modelado posterior.
 
-* **Análisis Completo en Notebook:** [EDA - House Prices Dataset](https://github.com/christianricoperez/Portfolio/blob/main/EDA_HousePrices.ipynb)
+* **Análisis Completo en Notebook:** [EDA - House Prices Dataset]([https://github.com/christianricoperez/Portfolio/blob/main/EDA_HousePrices.ipynb](https://github.com/christianricoperez/Portfolio/blob/main/EDA_HousePrices_github.ipynb))
 
 **Contenido:**
 
