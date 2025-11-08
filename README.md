@@ -1,7 +1,7 @@
 ---
 # 📈 Portafolio de Data Analysis
+Bienvenido a mi colección de proyectos.
 
-Data Portfolio: De Datos Brutos a Insights. Mi trabajo se centra en la ingeniería de features y el análisis exploratorio (EDA) para transformar datos en conocimiento. Incluye proyectos de predicción (ML) y soluciones de Business Intelligence (Power BI/Looker Studio) para medir y optimizar el rendimiento.
 ---
 
 ## 📊 Proyecto 1: Superstore - Sales Performance Review 2025
