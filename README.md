@@ -50,7 +50,7 @@ Este proyecto demuestra un flujo de trabajo de **Data Science** dedicado a la **
 
 * **Análisis Completo en Notebook:** [EDA - House Prices Dataset](https://github.com/christianricoperez/Portfolio/blob/main/EDA_HousePrices.ipynb)
 
-**Habilidades Demostradas:**
+**Contenido:**
 
 * **Manejo de Valores Nulos:** Imputación de valores.
 * **Feature Engineering:** Creación de nuevas variables.
