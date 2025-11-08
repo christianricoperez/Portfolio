@@ -1,5 +1,5 @@
 ---
-# 📈 Portafolio de Data Analysis
+# 📈 Portafolio de Data Analytics
 Bienvenido a mi colección de proyectos.
 
 ---
