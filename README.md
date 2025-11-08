@@ -5,7 +5,7 @@ Bienvenido a mi colección de proyectos de Business Intelligence. Mi objetivo es
 
 ---
 
-## 📊 Proyecto: Superstore - Sales Performance Review 2025
+## 📊 Proyecto 1: Superstore - Sales Performance Review 2025
 
 **Descripción:**
 Este dashboard interactivo está diseñado para proporcionar una revisión exhaustiva del rendimiento de ventas durante el año 2025. Permite a los gerentes analizar tendencias, 
@@ -37,12 +37,6 @@ Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos u
 * Marketing: [Sample - Superstore - Marketing.csv](/Data/Sample%20-%20Superstore%20-%20Marketing%20-%20Sample%20-%20Superstore%20-%20Marketing.csv)
 * Devoluciones: [Sample - Superstore - Returns.csv](/Data/Sample%20-%20Superstore%20-%20Returns%20-%20Sample%20-%20Superstore%20-%20Returns.csv)
 * Clientes: [Sample - Superstore - Customers.csv](/Data/Sample%20-%20Superstore%20-%20Customers%20-%20Sample%20-%20Superstore%20-%20Customers.csv)
-
-
-
-
-
-
 
 
 
