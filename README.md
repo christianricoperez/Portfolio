@@ -56,3 +56,10 @@ Este proyecto demuestra un flujo de trabajo de **Data Science** dedicado a la **
 * **Feature Engineering:** Creación de nuevas variables.
 * **Transformación de Variables:** Aplicación de logaritmos para **normalizar** la variable objetivo (`SalePrice`).
 * **Análisis Exploratorio:** Identificación de *outliers* y visualización de correlaciones clave con **Python (Pandas, Seaborn)**.
+
+### 💾 Dataset del Proyecto (Archivos CSV)
+
+El análisis utiliza el conjunto de datos de precios de viviendas, el cual está disponible para su descarga en la carpeta de datos del repositorio.
+
+* [Datos de Entrenamiento: HousePrices_train.csv](/Data/houseprices_train.csv)
+
