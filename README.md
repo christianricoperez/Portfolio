@@ -46,7 +46,7 @@ Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos u
 ---
 ## 🏠 Proyecto 2: Análisis Exploratorio de Precios de Viviendas (EDA)
 
-Este proyecto demuestra un flujo de trabajo de Data Science dedicado a la limpieza, exploración y preparación rigurosa de datos complejos, esencial para cualquier análisis estadístico o modelado posterior.
+Este proyecto demuestra un flujo de trabajo completo de Data Science, abarcando desde la limpieza rigurosa de datos complejos hasta la implementación y validación de un modelo de Regresión Lineal Múltiple.
 
 * **Análisis Completo en Notebook:** [EDA_HousePrices.ipynb](https://github.com/christianricoperez/Portfolio/blob/main/EDA_HousePrices.ipynb)
 
@@ -56,6 +56,9 @@ Este proyecto demuestra un flujo de trabajo de Data Science dedicado a la limpie
 * **Feature Engineering:** Creación de nuevas variables.
 * **Transformación de Variables:** Aplicación de logaritmos para **normalizar** la variable objetivo (`SalePrice`).
 * **Análisis Exploratorio:** Identificación de *outliers* y visualización de correlaciones clave con **Python (Pandas, Seaborn)**.
+* **Transformación Logarítmica:** Aplicación de `np.log()` para **normalizar** la variable objetivo (`PrecioVenta`) y asegurar la validez de los modelos.
+* **Modelado Predictivo:** Implementación de un modelo de **Regresión Lineal Múltiple** como línea base para la predicción de valores.
+
 
 ### 📂 Dataset del Proyecto (Archivos CSV)
 
