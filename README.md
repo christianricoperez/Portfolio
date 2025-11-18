@@ -48,7 +48,7 @@ Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos u
 
 Este proyecto demuestra un flujo de trabajo completo de Data Science, abarcando desde la limpieza rigurosa de datos complejos hasta la implementación y validación de un modelo de Regresión Lineal Múltiple para predecir el precio de las viviendas.
 
-* **Análisis Completo en Notebook:** [EDA_HousePrices.ipynb](https://github.com/christianricoperez/Portfolio/blob/main/Modelado_Predictivo_HousePrices.ipynb)
+* **Análisis Completo en Notebook:** [Modelado_Predictivo_HousePrices.ipynb](https://github.com/christianricoperez/Portfolio/blob/main/Modelado_Predictivo_HousePrices.ipynb)
 
 **Contenido:**
 
