@@ -65,4 +65,5 @@ Este proyecto demuestra un flujo de trabajo completo de Data Science, abarcando 
 El análisis utiliza el conjunto de datos de precios de viviendas, el cual está disponible para su descarga en la carpeta de datos del repositorio.
 
 * [Datos de Entrenamiento: HousePrices_train.csv](/Data/houseprices_train.csv)
+* [Datos de testeo: HousePrices_test.csv](/Data/houseprices_test.csv)
 
