@@ -44,7 +44,7 @@ Puedes hacer clic en el nombre de cada archivo para ver la estructura de datos u
 
 
 ---
-## 🏠 Proyecto 2: Análisis Exploratorio de Precios de Viviendas (EDA)
+## 🏠 Proyecto 2: Análisis Exploratorio de Datos (EDA) y Modelado de Regresión Lineal Múltiple Aplicado a Precios de Viviendas
 
 Este proyecto demuestra un flujo de trabajo completo de Data Science, abarcando desde la limpieza rigurosa de datos complejos hasta la implementación y validación de un modelo de Regresión Lineal Múltiple para predecir el precio de las viviendas.
 
